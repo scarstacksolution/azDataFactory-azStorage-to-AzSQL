@@ -1,0 +1,9 @@
+{
+	"name": "azTest-dataFactory",
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "fbf4a275-2b19-472b-b0fe-6a76d427f8e9",
+		"tenantId": "1ea3bbd7-4d5d-4be1-9c23-0b3a14d378ed"
+	}
+}
